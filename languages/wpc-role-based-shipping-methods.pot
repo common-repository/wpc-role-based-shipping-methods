@@ -1,0 +1,93 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Role-Based Shipping Methods for WooCommerce 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-role-based-shipping-methods\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-30T04:19:27+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-role-based-shipping-methods\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Role-Based Shipping Methods for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Role-Based Shipping Methods allow the limitation of available shipping methods for each user role individually."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-role-based-shipping-methods.php:116
+msgid "WPC Role-Based Shipping Methods"
+msgstr ""
+
+#. translators: stars
+#: wpc-role-based-shipping-methods.php:119
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-role-based-shipping-methods.php:121
+msgid "Reviews"
+msgstr ""
+
+#: wpc-role-based-shipping-methods.php:122
+msgid "Changelog"
+msgstr ""
+
+#: wpc-role-based-shipping-methods.php:123
+msgid "Discussion"
+msgstr ""
+
+#: wpc-role-based-shipping-methods.php:128
+msgid "Settings updated."
+msgstr ""
+
+#: wpc-role-based-shipping-methods.php:134
+#: wpc-role-based-shipping-methods.php:271
+msgid "Settings"
+msgstr ""
+
+#: wpc-role-based-shipping-methods.php:137
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-role-based-shipping-methods.php:149
+msgid "Shipping Methods"
+msgstr ""
+
+#: wpc-role-based-shipping-methods.php:170
+msgid "Choose the role(s) that are allowed to use this shipping method."
+msgstr ""
+
+#: wpc-role-based-shipping-methods.php:174
+msgid "All"
+msgstr ""
+
+#: wpc-role-based-shipping-methods.php:175
+msgid "User (logged in)"
+msgstr ""
+
+#: wpc-role-based-shipping-methods.php:176
+msgid "Guest (not logged in)"
+msgstr ""
+
+#: wpc-role-based-shipping-methods.php:287
+msgid "Community support"
+msgstr ""
